@@ -1,0 +1,11 @@
+﻿5,realize,group
+1,limited,certain
+8,pot,serious
+3,spent,sleep
+6,split,dry
+10,meat,these
+2,successful,single
+7,baby,fresh
+11,research,basket
+12,look,face
+13,earth,spent
