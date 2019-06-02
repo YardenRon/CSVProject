@@ -9,6 +9,7 @@
   "author": "Yarden Ron",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.0.4"
+    "@types/node": "^12.0.4",
+    "split-file": "^2.1.1"
   }
 }
